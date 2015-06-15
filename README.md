@@ -1,3 +1,9 @@
+This repository has moved
+=========================
+
+Please look at the `undertow` branch of `ops4j/org.ops4j.pax.web` instead.
+
+
 pax-web-undertow
 ================
 
